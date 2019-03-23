@@ -63,3 +63,4 @@ with open('data_fil.jsonl', 'w') as outfile:
 #    print(key)
 #print(dic["keyPhrases"])
 #print(dic["id"])
+
