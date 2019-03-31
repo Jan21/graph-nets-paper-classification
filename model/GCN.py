@@ -1,5 +1,6 @@
 import os.path as osp
 
+from torch import nn
 import torch
 import torch.nn.functional as F
 from papers_data import Papers
